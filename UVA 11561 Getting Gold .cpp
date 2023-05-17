@@ -7,7 +7,7 @@ using namespace std;
 #define ll long long
 #define endl "\n"
 #define for0(i ,l ,r) for(int i = (l); i < (r); ++i)
-#define for0(i, l, r) for(int i = (l); i >= (r); --i)
+#define for1(i, l, r) for(int i = (l); i >= (r); --i)
 #define for2(v) for(auto it : v)
 #define reset(a) memset(a,0,sizeof(a))
 #define mem(a) memset(a,-1,sizeof(a))
